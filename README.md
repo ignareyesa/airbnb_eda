@@ -53,5 +53,4 @@ So, please feel free to take your time to look deeper into the code and conclusi
 
 Ignacio Reyes Arboledas
 
-[Go back to website](https://ignacioreyesarboledas.tech/)
-[Contact Me](ignareyesa@gmail.com)
+**[Go back to website](https://ignacioreyesarboledas.tech/)** &#128522;
