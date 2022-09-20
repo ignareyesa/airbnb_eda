@@ -2,7 +2,7 @@
 
 This **repository is the first in a series of three** in which various Airbnb datasets are studied using different analysis methods.
 
-- [Part 1: Exploratory Data Analysis]()
+- [Part 1: Exploratory Data Analysis](https://github.com/ignareyesa/airbnb_eda)
 - [Part 2: Natural Language Processing on reviews]()
 - [Part 3: Time Series Forecasting]()
 
