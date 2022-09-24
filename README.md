@@ -3,7 +3,7 @@
 This **repository is the first in a series of three** in which various Airbnb datasets are studied using different analysis methods.
 
 - [Part 1: Exploratory Data Analysis](https://github.com/ignareyesa/airbnb_eda)
-- [Part 2: Natural Language Processing on reviews]()
+- [Part 2: Natural Language Processing on reviews](https://github.com/ignareyesa/airbnb_nlp)
 - [Part 3: Time Series Forecasting]()
 
 ![Airbnb](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_Bélo.svg/320px-Airbnb_Logo_Bélo.svg.png)
