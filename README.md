@@ -4,7 +4,7 @@ This **repository is the first in a series of three** in which various Airbnb da
 
 - [Part 1: Exploratory Data Analysis](https://github.com/ignareyesa/airbnb_eda)
 - [Part 2: Natural Language Processing on reviews](https://github.com/ignareyesa/airbnb_nlp)
-- [Part 3: Time Series Forecasting]()
+- [Part 3: Time Series Forecasting](https://github.com/ignareyesa/airbnb_ts)
 
 ![Airbnb](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_Bélo.svg/320px-Airbnb_Logo_Bélo.svg.png)
 
